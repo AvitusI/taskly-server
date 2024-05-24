@@ -5,7 +5,6 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon server.js",
     "start": "node server.js"
   },
   "author": "Avitus",
